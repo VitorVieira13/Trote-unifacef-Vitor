@@ -1,0 +1,66 @@
+body{
+    background-color:#204078;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    font-family:arial;
+    h1{color:#204078;}
+    h3{font-size:medium;}
+}
+
+.EXE-TROTE{
+    background-color: white;
+    padding:40px 20px;
+    border-radius:20px;
+    text-align:center;
+    
+}
+
+ul{
+    list-style:none;
+    display: flex;
+   flex-direction: column;
+   align-items:flex-start , center;
+    padding:0;
+    
+
+}
+
+li{
+text-align:left;
+border-bottom: 1px solid #ccc;
+padding:10px 0;
+width:110px;
+margin:0 auto;
+color:
+
+}
+
+button{
+    background-color:#ff4b2b;
+    border-radius:50px;
+    padding:10px 40px;
+    border:none;
+    cursor:pointer;
+    color:white;
+    cursor:pointer;
+    transition: 0,3s;
+}
+button:hover{
+    background-color:#b3351f;
+
+
+}
+
+p{
+    color:gray;
+    font-size:smaller ;
+}
+
+.imagem{
+    width:110px;
+    height:110px;
+    border-radius:10px;
+
+}
